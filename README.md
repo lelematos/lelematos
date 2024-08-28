@@ -19,7 +19,7 @@ Olá, bem vindo ao meu perfil. Aqui você encontra um pouco da minha história, 
 
 ## 🚀 Sobre Mim
 
-Sou um **Engenheiro de Controle e Automação e Desenvolvedor de Software**, formado pela Universidade Federal de Santa Catarina (só não peguei meu diploma ainda, kkk), com experiência em desenvolvimento mobile e web, além de já ter trabalhado com desenvolvimento de software embarcado. Apaixonado por tecnologia, gosto de trabalhar na interseção entre hardware e software, criando soluções inovadoras e eficientes. Sempre em busca de novos desafios, estou constantemente aprendendo e aplicando novas tecnologias em meus projetos.
+Sou um **Engenheiro de Controle e Automação e Desenvolvedor de Software**, formado pela Universidade Federal de Santa Catarina, com experiência em desenvolvimento mobile e web, além de já ter trabalhado com desenvolvimento de software embarcado. Apaixonado por tecnologia, gosto de trabalhar na interseção entre hardware e software, criando soluções inovadoras e eficientes. Sempre em busca de novos desafios, estou constantemente aprendendo e aplicando novas tecnologias em meus projetos.
 
 Sou sócio proprietário de uma empresa de Manutenção de Persianas, atuando, hoje, como responsáve pela parte de tecnologia da empresa, por isso a maior parte dos meus projetos aqui listados são relacionados a este escopo.
 
